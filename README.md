@@ -23,7 +23,7 @@
  4.special features:
  Once clicking mouse, each of the follower will be drawn a red circle on its body.
 
- 5. sources used:
+5. sources used:
  https://github.com/klavinslab/enviro
 
 
