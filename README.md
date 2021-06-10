@@ -13,6 +13,7 @@ enviro
 By preseeing Ctrl-C at the bash interface, we can stop the enviro server.
 4.special features:
 Once clicking mouse, each of the follower will be drawn a red circle on its body.
+
 5. sources used:
 https://github.com/klavinslab/enviro
 
